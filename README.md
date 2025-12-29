@@ -103,10 +103,10 @@
 
 测试截图:
 
-![截图](picture/1.png)
+![截图](picture/1.jpg)
 
-![截图](picture/2.png)
+![截图](picture/2.jpg)
 
-![截图](picture/4.png)
+![截图](picture/4.jpg)
 
-![截图](picture/3.png)
+![截图](picture/3.jpg)
